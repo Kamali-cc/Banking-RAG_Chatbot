@@ -1,3 +1,4 @@
+**Live Demo:** https://banking-ragchatbot.streamlit.app/
 # 🏦 Banking FAQ RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers banking questions
