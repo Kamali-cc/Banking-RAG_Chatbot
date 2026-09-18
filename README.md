@@ -86,9 +86,3 @@ Free options:
 - **Streamlit Community Cloud** (share.streamlit.io) — connect your GitHub repo directly
 - **Hugging Face Spaces** (Streamlit SDK) — nice touch since the project already
   uses Hugging Face for embeddings
-
-## Possible extensions (good "future work" talking points)
-- Add PDF ingestion for full bank policy documents, not just FAQs
-- Add conversation memory (multi-turn context)
-- Add a feedback loop (thumbs up/down) to track retrieval quality
-- Evaluate with RAGAS (faithfulness, answer relevance metrics)
